@@ -1,0 +1,16 @@
+Algorithm
+Step 1:
+Create a folder as same name as file name
+Expected output:x
+                y
+                z
+Step 2:
+Create a sub folder as per file extension name
+Expected output:Java   
+                Py
+                Js
+Step3:
+Cut original file and paste into specific sub folder
+Expected Output:x/Java/x.Java
+                y/Py/y.Py
+                z/Js/z.Js

@@ -1,0 +1,15 @@
+Question 1:
+step1 write a code for an array which contains duplicates and print all the elements and their frequencies
+step 2 
+Input =[10 20 20 10 10 20 5 20]
+expected output:
+10 3
+20 4
+5 1
+
+Question 2:
+Flip coin simulation
+step 1:
+	create a file name as flipcoincombination
+step 2:
+	Use RANDOM to find heads or tails
